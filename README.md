@@ -1,2 +1,2 @@
 # dtnews-zh-cn
-DTnews
+DTNEWS
